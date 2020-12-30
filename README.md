@@ -1,2 +1,2 @@
-# Ordenão
+# Ordenação
 Códigos do exercício de Ordenação
